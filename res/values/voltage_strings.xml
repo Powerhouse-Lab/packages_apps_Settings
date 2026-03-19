@@ -592,4 +592,7 @@ When the screen is off, the torch can be enabled with one of the following key c
     <string name="gesture_wake_ambient">Show Ambient</string>
     <string name="gesture_wake">Fully wake</string>
 
+    <!-- Minimum auto brightness -->
+    <string name="user_min_auto_brightness_title">Minimal auto brightness</string>
+    <string name="user_min_auto_brightness_summary">Caps auto brightness minimum value</string>
 </resources>
